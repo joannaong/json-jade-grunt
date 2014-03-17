@@ -1,0 +1,14 @@
+{
+	"pageTitle":"How to read JSON inside JADE, using grunt.",
+	"nav":[
+		{
+			"pageName": "page 1"
+		},
+		{
+			"pageName": "page 2"
+		},
+		{
+			"pageName": "page 3"
+		}
+	]
+}

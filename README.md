@@ -1,0 +1,1 @@
+# How to read JSON inside JADE, using grunt.
